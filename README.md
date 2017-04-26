@@ -1,2 +1,2 @@
 # Repository for Python_Traning tesT
-Vova
+Vova xsw
